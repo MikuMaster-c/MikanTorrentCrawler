@@ -1,4 +1,4 @@
-# Mikan 种子爬虫工具 - MikanTorrentCrawler
+# 蜜柑计划种子爬虫工具 - MikanTorrentCrawler
 
 ## 项目介绍
 
